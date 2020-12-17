@@ -1,0 +1,1 @@
+Please note that this is a Secure File Sharing and Storage Website project created at UCB. This project was developed by me from a skeleton base code at UCB. All files were not created by me but the majority of the code seen in controller.go, database.go, and middlewares.go is my own work.
